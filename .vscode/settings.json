@@ -54,6 +54,7 @@
         "cassert": "cpp",
         "cerrno": "cpp",
         "climits": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "map": "cpp"
     }
 }
