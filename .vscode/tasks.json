@@ -6,7 +6,7 @@
             "command": "/usr/lib/ccache/g++",
             "args": [
                 "-g",
-                "${file}",
+                "${fileDirname}/**.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out",
                 "-std=c++1z",
